@@ -32,3 +32,7 @@ Led a small team to deliver web projects using WordPress and PHP, consistently e
 Eager to collaborate with innovative companies and make a positive impact through technology.
 Passionate about contributing my skills and experience to create impactful web solutions.
 I'm excited to connect with potential collaborators and embark on new web adventures.
+
+![<linkedin href="https://www.linkedin.com/in/juanmanuelcantero/">](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen)](https://codepen.io/velismo/)
